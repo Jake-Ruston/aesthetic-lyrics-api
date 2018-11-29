@@ -1,0 +1,18 @@
+{
+  "name": "aesthetic-lyrics-api",
+  "version": "1.0.0",
+  "description": "The RESTful API for my website: aesthetic-lyrics.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index.js"
+  },
+  "author": "Jake Ruston <rjake@hotmail.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "chalk": "^2.4.1",
+    "mysql2": "^1.6.4",
+    "restify": "^7.2.3",
+    "sequelize": "^4.41.2"
+  }
+}
