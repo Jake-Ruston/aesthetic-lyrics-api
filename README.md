@@ -4,4 +4,7 @@
   <img src="https://i.imgur.com/T87eDYA.png" width="250" alt="logo" />
 </p>
 
-Will update with routes soon!
+<p align="center">
+  <img src="https://i.imgur.com/g99z2bf.png" alt="routes" />
+</p>
+
